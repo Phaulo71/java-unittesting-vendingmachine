@@ -27,5 +27,4 @@ public class Creditor {
     public int getAvailableFunds() {
         return funds;
     }
-
 }
